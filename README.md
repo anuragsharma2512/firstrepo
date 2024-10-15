@@ -1,5 +1,5 @@
 # hello
 ## hello
-My name is Anurag Sharma
-I am from Uttar Pradesh
+My name is Anurag Sharma\n
+I am from Uttar Pradesh \n
 I study MCA in Nit Jamshedpur
